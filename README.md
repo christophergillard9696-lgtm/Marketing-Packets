@@ -3,6 +3,11 @@
 # Marketing-Packets
 Research, conditions, dashboards.
 
+### Fern Hewitt Packet
+[![Preview](fern-preview.png)]([https://docs.google.com/document/d/1Cpc41UjBxdN3Gp22Liod70wN5tWGS-NbbAt555rx4qM/edit](https://docs.google.com/document/d/1Cpc41UjBxdN3Gp22Liod70wN5tWGS-NbbAt555rx4qM/edit?usp=sharing)
+
+### Compass CHC Packet
+[![Preview](compass-preview.png)]([https://docs.google.com/document/d/1yj1QHW7ZGuvQOe1HTU5GU9o8o-mDCc0dZXEYz8bElBs/edit](https://docs.google.com/document/d/1yj1QHW7ZGuvQOe1HTU5GU9o8o-mDCc0dZXEYz8bElBs/edit?usp=sharing)
 
 
 Ferm Hewitt: https://docs.google.com/document/d/1Cpc41UjBxdN3Gp22Liod70wN5tWGS-NbbAt555rx4qM/edit?usp=sharing
